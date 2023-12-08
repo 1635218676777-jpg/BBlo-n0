@@ -7,3 +7,4 @@ compani-cambio/lits
 +.k9999K
 +.copy right
 +.licence 
+
