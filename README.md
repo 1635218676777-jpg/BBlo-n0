@@ -8,3 +8,4 @@ compani-cambio/lits
 +.copy right
 +.licence 
 
+=¥4000
